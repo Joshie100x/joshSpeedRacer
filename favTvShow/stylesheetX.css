@@ -1,0 +1,12 @@
+body {
+    background-color: #FFB400;
+    color: black;
+}
+
+div {
+    color: darkblue;
+    border: red;
+    border-width: 10px;
+    border-style: dashed;
+    padding: 20px;
+}

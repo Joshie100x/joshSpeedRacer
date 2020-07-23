@@ -1,0 +1,23 @@
+body {
+    background-color: #E54F6D;
+    color: #FFFFFF;
+}
+
+div {
+    border: red;
+    border-width: 10px;
+    border-style: dashed;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.imageStyling {
+    border-style: double;
+    border: rgb(80, 80, 255);
+    border-width: 15px;
+}
+
+p {
+    color:midnightblue;
+}
